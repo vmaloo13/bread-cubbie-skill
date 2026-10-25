@@ -19,9 +19,9 @@ Text Bread something like *"I'm broke and free this afternoon"* and it:
 
 1. **Checks when you're actually free** — reads your Canvas schedule and calendar to find real gaps in the next 7 days.
 2. **Finds real, paid opportunities that fit** —
-   - 🎓 **Paid research studies** (SONA pools, psych/business/med departments)
-   - 🧪 **One-off campus gigs** (UX testing, note-taking, event setup, survey panels)
-   - 💼 **Quick local side-work** that fits a free block
+   -  **Paid research studies** (SONA pools, psych/business/med departments)
+   -  **One-off campus gigs** (UX testing, note-taking, event setup, survey panels)
+   -  **Quick local side-work** that fits a free block
 3. **Texts you the best ones** — pay, how long, when, and a one-tap sign-up link. Top 3 in the text; a full PDF list if there are more.
 4. **Only if you say so** — books you in, sets a reminder 30 min before with when to leave, and scans every morning for new ones that beat your minimum pay.
 
@@ -30,7 +30,7 @@ Bread never asks you to pay anything, never signs you up on its own, and never t
 ## Example
 
 ```
-Found 3 that fit your gaps this week 💸
+Found 3 that fit your gaps this week 
 
 1. Psych study, $30 for 45 min
 Thu 2:15pm (you're free 2–4)
@@ -59,4 +59,4 @@ A single [`SKILL.md`](./SKILL.md) written against Cubbie's Skill interface. It n
 
 ## Team
 
-Built for the Cubbie Hackathon 🍞
+Built for the Cubbie Hackathon 

@@ -1,5 +1,5 @@
 # bread-cubbie-skill
-# 🍞 Bread
+# Bread
 
 **Your empty afternoons are worth money.**
 

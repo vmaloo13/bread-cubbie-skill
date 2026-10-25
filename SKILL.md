@@ -1,6 +1,6 @@
 ---
 name: bread
-description: Finds the student real, paid ways to make money that fit the gaps in their actual schedule — paid campus research studies, one-off campus gigs, and quick local side-work — and texts them when something pays and fits, with the exact sign-up link. Use when the student wants to earn money, mentions being broke, asks about gigs, jobs for a few hours, paid studies, or making use of free time between classes. Different from study or job-search skills: this is about short, paid, time-boxed opportunities that fit around classes, not full internships or a study plan.
+description: Finds the student real, paid ways to make money that fit the gaps in their actual schedule — paid campus research studies, one-off campus gigs, and quick local side-work — and texts them when something pays and fits, with the exact sign-up link. Use when the student wants to earn money, mentions being broke, asks about gigs, jobs for a few hours, paid studies, or making use of free time between classes. Different from study or job-search skills, this is about short, paid, time-boxed opportunities that fit around classes, not full internships or a study plan.
 ---
 
 # Bread
